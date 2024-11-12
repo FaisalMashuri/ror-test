@@ -1,0 +1,1 @@
+class UserWallet < Wallet; end
